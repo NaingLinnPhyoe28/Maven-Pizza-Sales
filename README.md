@@ -1,19 +1,23 @@
 # Maven-Pizza-Sales
+
 The Maven Pizza Dataset is a fictional dataset used for data analysis challenges on Maven Analytics. It contains annual sales data for a pizza restaurant, including details about orders, pizza types, sizes, prices, and ingredients.
 
 ##DataSet used
+
 -<a href="https://github.com/NaingLinnPhyoe28/Maven-Pizza-Sales/blob/main/order_details.csv">OrderDetails</a>
 -<a href="https://github.com/NaingLinnPhyoe28/Maven-Pizza-Sales/blob/main/orders.csv">Orders</a>
 -<a href="https://github.com/NaingLinnPhyoe28/Maven-Pizza-Sales/blob/main/pizza_types.csv">PizzaTypes<a/>
 -<a href="https://github.com/NaingLinnPhyoe28/Maven-Pizza-Sales/blob/main/pizzas.csv">PizzSales<a/>
 
 ##Dataset Overview
+
 - Orders Table – Contains timestamps for each order placed.
 - Order Details Table – Tracks the pizzas ordered, including type, size, and quantity.
 - Pizza Types Table – Lists different pizza varieties, their categories, and ingredients.
 - Pizzas Table – Provides pricing details based on size and type.
 
 ##KPI
+
 -Figure out the best order item and least order item
 -Revenue by dayname a week
 -Finding the peak months by sales and determine the traffic periode for sales forcasting.
