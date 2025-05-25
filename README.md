@@ -24,5 +24,5 @@ DAX Used
 Total Order = COUNT(orders[order_id])
 Total Revenue = SUM(order_details[Total Price])
 
-![Uploading Landing_Page.png…]()
+https://github.com/NaingLinnPhyoe28/Maven-Pizza-Sales/blob/main/Landing_Page.png
 
