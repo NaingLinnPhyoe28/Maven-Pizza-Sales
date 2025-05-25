@@ -16,11 +16,14 @@ The Maven Pizza Dataset is a fictional dataset used for data analysis challenges
 
 ## Step By Step Breakdown
 -CSV file upload and ETL process in query
+
 -Data Modelling with the tables
 ![Screenshot 2025-05-25 120322](https://github.com/user-attachments/assets/35e2b093-fee5-493f-87d7-e07d465dda1e)
 
 -Set up DAX Measures for appropiate insights
+
 -Data Visualization on canvas
+
 
 ##Creating Landing Page
 DAX Used
