@@ -13,6 +13,11 @@ The Maven Pizza Dataset is a fictional dataset used for data analysis challenges
 - Pizza Types Table – Lists different pizza varieties, their categories, and ingredients.
 - Pizzas Table – Provides pricing details based on size and type.
 
+##KPI
+-Figure out the best order item and least order item
+-Revenue by dayname a week
+-Finding the peak months by sales and determine the traffic periode for sales forcasting.
+
 
 ## Step By Step Breakdown
 -CSV file upload and ETL process in query
