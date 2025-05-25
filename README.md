@@ -13,6 +13,10 @@ The Maven Pizza Dataset is a fictional dataset used for data analysis challenges
 - Pizza Types Table – Lists different pizza varieties, their categories, and ingredients.
 - Pizzas Table – Provides pricing details based on size and type.
 
+
+##Dashboard Interaction
+<a href =
+
 ## Step By Step Breakdown
 -CSV file upload and ETL process in query
 -Data Modelling with the tables
@@ -24,6 +28,7 @@ DAX Used
 Total Order = COUNT(orders[order_id])
 Total Revenue = SUM(order_details[Total Price])
 
-![Alt text](relative/path/to/image.jpg?raw=true "Landing_Page.png")
+![Landing_Page](https://github.com/user-attachments/assets/65bfe69d-bd26-497c-a869-e8edc4e81b13)
+
 
 
