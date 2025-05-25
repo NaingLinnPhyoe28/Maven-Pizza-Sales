@@ -13,6 +13,10 @@ The Maven Pizza Dataset is a fictional dataset used for data analysis challenges
 -Set up DAX Measures for appropiate insights
 -Data Visualization on canvas
 
-#Creating Landing Page
+##Creating Landing Page
+DAX Used
+Total Order = COUNT(orders[order_id])
+Total Revenue = SUM(order_details[Total Price])
 
 ![Uploading Landing_Page.png…]()
+
