@@ -29,6 +29,7 @@ The Maven Pizza Dataset is a fictional dataset used for data analysis challenges
 
 
 ## Step By Step Breakdown
+
 -CSV file upload and ETL process in query
 
 -Data Modelling with the tables
@@ -40,6 +41,7 @@ The Maven Pizza Dataset is a fictional dataset used for data analysis challenges
 
 
 ## Creating Landing Page
+
 DAX Used
 Total Order = COUNT(orders[order_id])
 Total Revenue = SUM(order_details[Total Price])
@@ -47,7 +49,9 @@ Total Revenue = SUM(order_details[Total Price])
 ![Landing_Page](https://github.com/user-attachments/assets/65bfe69d-bd26-497c-a869-e8edc4e81b13)
 
 ## Creating Menue List
-Pizza Type was changed into Menue List by Table Format 
+
+Pizza Type and its categories were changed into Menue List by Table Format.
+
 ![Menue_List](https://github.com/user-attachments/assets/4af7a9c2-f66f-48a5-8dfc-05869f8d43f2)
 
 ## Order Insights
@@ -70,6 +74,7 @@ Total Revenue = SUM(order_details[Total Price])
 ![Revenue_Insights](https://github.com/user-attachments/assets/6b9ead2c-89da-4a22-8152-7ebdb769f456)
 
 ## Traffic Hours
+
 Dax Used
 Total Order = COUNT(orders[order_id])
 Total Revenue = SUM(order_details[Total Price])
