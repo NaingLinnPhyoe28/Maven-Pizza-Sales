@@ -18,7 +18,7 @@ The Maven Pizza Dataset is a fictional dataset used for data analysis challenges
 
 ##KPI
 
--Figure out the best order item and least order item
+-1-Figure out the best order item and least order item
 -Revenue by dayname a week
 -Finding the peak months by sales and determine the traffic periode for sales forcasting.
 
